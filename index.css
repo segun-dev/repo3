@@ -1,5 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: blanchedalmond;
+    background-color: rgb(4, 205, 232);
+}
+.container{
+    background-color: aliceblue;
+    color: green;
 }
